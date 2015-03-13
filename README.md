@@ -1,6 +1,10 @@
 # Typefix
 A CKEditor plugin that fixes typography as you type
 
-Currently pre-alpha!
+Currently pre-alpha! Still needs some work…
 
-* Replaces double quotes
+## Current replacements
+
+* Double quotes “ ”
+* Single quotes ‘ ’
+* Hyphens/Dashes 
